@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool on Next X, Next Top | The world never stop, so do we</title>
+    <link>https://NextX.timze.com/categories/tool/</link>
+    <description>Recent content in Tool on Next X, Next Top | The world never stop, so do we</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 15 Sep 2021 19:48:23 +0800</lastBuildDate><atom:link href="https://NextX.timze.com/categories/tool/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don&#39;t count . . . quantify!</title>
+      <link>https://NextX.timze.com/blog/salmon/</link>
+      <pubDate>Wed, 15 Sep 2021 19:48:23 +0800</pubDate>
+      
+      <guid>https://NextX.timze.com/blog/salmon/</guid>
+      <description>&lt;p&gt;Salmon &lt;code&gt;—Don&#39;t count . . . quantify!&lt;/code&gt;&lt;/p&gt;
+&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+&lt;p&gt;Salmon is a tool for quantifying the expression of transcripts using RNA-seq data. Salmon uses new algorithms (specifically, coupling the concept of quasi-mapping with a two-phase inference procedure) to provide accurate expression estimates&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

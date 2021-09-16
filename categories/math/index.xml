@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Next X, Next Top | The world never stop, so do we</title>
+    <link>https://NextX.timze.com/categories/math/</link>
+    <description>Recent content in Math on Next X, Next Top | The world never stop, so do we</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 15 Sep 2021 16:46:10 +0800</lastBuildDate><atom:link href="https://NextX.timze.com/categories/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生物学中的拓扑</title>
+      <link>https://NextX.timze.com/blog/markdown3/</link>
+      <pubDate>Wed, 15 Sep 2021 16:46:10 +0800</pubDate>
+      
+      <guid>https://NextX.timze.com/blog/markdown3/</guid>
+      <description>在什么样的情况下，我们能够说一个系统的某个性质是稳健的（robust）？一个性质如果是稳健的，则意味</description>
+    </item>
+    
+    <item>
+      <title>信息论和信息熵</title>
+      <link>https://NextX.timze.com/blog/20210628161223-%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%92%8C%E4%BF%A1%E6%81%AF%E7%86%B5/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://NextX.timze.com/blog/20210628161223-%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%92%8C%E4%BF%A1%E6%81%AF%E7%86%B5/</guid>
+      <description>主题 信息论和信息熵 什么是信息论和信息熵 信息增益 条件熵 内容 熵、信息熵、平均自信息量 熵，是不确定性的量度</description>
+    </item>
+    
+  </channel>
+</rss>
